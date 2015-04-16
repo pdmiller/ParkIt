@@ -1,0 +1,4 @@
+As a Parkee, I need to be able to reserve a spot that has been searched so that I can guarantee a spot that can be parked in.
+
+1) Verify I can reserve a spot that has been searched so that a spot is reserved.
+2) Verify a button is avaiable on the search grid to reserve spots that can be reserved.
