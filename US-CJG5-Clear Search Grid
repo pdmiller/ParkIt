@@ -1,0 +1,5 @@
+As a Parkee, I need to be able to clear the search grid so that I can perform a new search.
+
+Acceptance Criteria
+1) Verify I am able to clear the search grid.
+2) Verify there is a button on the find search screen that allows a user to clear the search grid and start a new search.
