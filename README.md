@@ -1,3 +1,6 @@
 # ParkIt
 ACCT 806 App Project
-Sample text
+
+This is our agile product backlog for the ParkIt Mobile application.
+
+For Skip White
