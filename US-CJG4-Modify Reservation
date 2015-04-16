@@ -1,0 +1,8 @@
+As a Parkee, I need to the ability to modify a reservation that has been previously created so that I can update/cancel a reservation.
+
+Acceptance Criteria
+1) Verify I can modify/cancel a rservation that has been previosuly created so that I can update/cancel a reservation.
+2) Verify my reservations appear in a list.
+3) Verify there is a button to update a reservation.
+4) Verify there is a button to cancel a reservation.
+5) Verify there is the ability to update the time/place of an existing reservation.
