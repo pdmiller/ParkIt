@@ -1,0 +1,6 @@
+As a Parkee, I need to display a list of parking spaces the user has searched on and present it to the user, so that the user can see their parking options.
+
+
+
+1) Verify I can display a lost of parkinhg spaces to a user.
+2) Verify a list of parking options is presented to the user in a grid that displays the parking type paramaters.
