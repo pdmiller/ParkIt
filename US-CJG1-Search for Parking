@@ -4,4 +4,4 @@ As a parkee, I need to be able to search for parking by a given set of criteria 
 2) Verify that I am able to search for parking by parking type(Lot, garage, street).
 3) Verify that I am able to search for parking by distance.
 4) Verify that I am able to search for parking by my current location.
-5) Verify a list of parking options is presented to the user in a grid that displays the parking type paramaters.
+
