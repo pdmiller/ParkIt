@@ -1,0 +1,4 @@
+As a parkee, I need to be able to center the map on my location.
+
+Verify that the "my location" icon is visible on the map when it is not centered on my location.
+Verify that selecting the "my location" icon causes the map to be centered on my location.
