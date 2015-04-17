@@ -1,1 +1,5 @@
+As a parkee, I need to be able to bring up the parking map so that I can see available parking spaces.
 
+Verify that I am able to select the option to bring up the parking map.
+Verify that parking map loads.
+Verify that available parking spaces show on the map. 
