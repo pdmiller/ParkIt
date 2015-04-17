@@ -1,0 +1,4 @@
+As a parkee, I need to be able to return the parking map to its default state.
+
+Verify that the reset icon is visible on the screen when the view is not the default view.
+Verify that selecting the reset item returns the map to its default state.
