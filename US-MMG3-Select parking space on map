@@ -1,0 +1,5 @@
+As a parkee, I need to be able to select a parking space on the map.
+
+Verify that tapping a parking space on the map selects that parking space.
+Verify that parking space information and menu is displayed when I select a parking space.
+Verify that, when a parking space is selected, clicking elsewhere on the map hides the parking space information and menu.
