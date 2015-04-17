@@ -1,0 +1,6 @@
+As a parkee, I need to shorten the list of parking spaces by selcting or deselecting parking space characteristics.
+
+Verify that the filter icon is visible when a list of parking spaces is displayed.
+Verify that selecting the filter icon brings up a list of selected characteristics (default: all).
+Verify that tapping a characteristic toggles selected state.
+Verify that list of parking spaces is updated based on the selected and/or deselected characteristics.
