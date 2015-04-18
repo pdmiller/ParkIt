@@ -1,5 +1,6 @@
 As a Parkee, I need to be able to reserve a parking spot
 
+Acceptance Criteria
 1) Verify that the parking type is in a garage
 2) verify the that the parking garage acknowledged the reservation
 3) Verify that the reserved spot will be held for 15 minutes until the Parkee arrives
