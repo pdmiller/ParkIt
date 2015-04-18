@@ -1,0 +1,4 @@
+As a database, I need to be able to extract, transfer, and load data
+
+1) Verify that parking spot availability has been updated
+2) Verify that notification system is updated upon new parking availability data
