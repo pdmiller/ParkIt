@@ -1,0 +1,6 @@
+As a Parkee, I need to be notified upon parking availability 
+
+Acceptance Criteria
+1) Verify that the parkee's selected parking criteria notifies Parkee upon availability 
+2) Verify that the Parkee acknowledged the notification
+3) Verify that notifications cease when the Parkee selects a parking spot
