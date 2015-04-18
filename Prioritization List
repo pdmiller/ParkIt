@@ -1,0 +1,11 @@
+priority 	Name of use story	size 
+1	US- Database  -	13
+2	US-Search for Parking - 	5
+3	US-Display Search Grid	- 5
+4	US-Clear Search Grid - 	3
+5	US-Bring up parking map	- 13
+6	US- Navigate parking map -	13
+7	US-Select parking spaces by characteristics -	5
+8	US-Filter displayed  parking spaces by characteristics	- 5
+9	US-Reset parking map -	3
+10	US-Center map view on parkee location	- 8
