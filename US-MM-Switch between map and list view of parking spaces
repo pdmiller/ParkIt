@@ -1,0 +1,5 @@
+As a parkee, I should be able to toggle between the list view of parking spaces and the map view of parking spaces.
+
+1-Verify that there is an icon visible that toggles the view between list and map.
+2-Verify that selecting the icon changes the view to map if the current view is list.
+3-Verify that selecting the icon changes the view to list if the current view is map.
