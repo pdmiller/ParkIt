@@ -1,0 +1,4 @@
+As a parkee, I need to log a message when a spot is improperly vacated when it is parked in by a new parkee.
+1.	Verify I log a message when a spot is improperly vacated when it is parked in by a new parkee.
+2.	Verify I send a notification to the previous parker to indicate they need to mark a spot as vacated.
+3.	Verify the spot used is changed from the old parker to the new parker.
