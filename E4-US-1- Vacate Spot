@@ -1,0 +1,5 @@
+As a parkee, I need to be able to vacate a spot once I am finish using it so that other parkees can use it.
+1.	Verify I am able to vacate a spot once I am finish using it so that other parkees can use it.
+2.	Verify a button is available in the application to vacate the spot I am currently parked in.
+3.	Verify the vacated spot is now available for other parkees to use.
+4.	Verify I cannot vacate spots that I am not using.
