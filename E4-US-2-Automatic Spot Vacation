@@ -1,0 +1,4 @@
+As a parkee, I need to be able to vacate a spot automatically after a 12 hour period, so that spots become available for other parkers.
+1.	Verify I can vacate a spot automatically after a 12 hour period, so that spots become available for other parkers
+2.	Verify the automatically vacated spot is made available for use by other parkees.
+3.	Verify the spot is not automatically vacated if a parker confirms the spot is still in use.
