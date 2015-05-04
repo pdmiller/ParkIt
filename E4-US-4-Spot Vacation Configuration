@@ -1,0 +1,6 @@
+As an application admin, I need to be able to configure the number of hours the system uses to automatically vacate spaces.
+1.	Verify I am able to configure the number of hours the system uses to automatically vacate spaces.
+2.	Verify I can enter a range from 0 to 24 hours, to set the number of hours to expire a parking spot.
+3.	Verify that when an expiration time of zero is entered, the parking spot never expires.
+4.	Verify the parking spot becomes available after the number of hours passes.
+5.	Verify I cannot enter more than 24 hours in the expiration admin option.
