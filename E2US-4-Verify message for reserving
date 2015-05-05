@@ -1,0 +1,4 @@
+As a Parkee, I need the system sends to me a message to verify I receive the spot so that I can use it when I confront any future problem 
+Acceptance Criteria
+1)	Verify that when I received a spot, I will get a message.
+2)	Verify that the massage should include all information.
