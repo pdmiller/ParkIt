@@ -1,0 +1,6 @@
+As a Parkee, I need to be able to reserve a spot that has been searched so that I can guarantee a spot that can be parked in for saving time and effort 
+Acceptance Criteria
+1)	Verify I can reserve a spot that has been searched so that a spot is reserved.
+2)	Verify a button is available on the search grid to reserve spots that can be reserved
+3)	Verify that the reserved spot will be held for 15 minutes until the Parkee arrives
+4)	Verify that the parking type is in a garage
