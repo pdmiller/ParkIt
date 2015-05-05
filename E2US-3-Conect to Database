@@ -1,0 +1,5 @@
+As a Parkee, I need to be able to access into a database so that I can receive a spot with less effort, time and risk. 
+Acceptance Criteria
+1)	Verify that parking spot availability has been updated
+2)	Verify that notification system is updated upon new parking availability data
+3)	Verify that connection to database with less writing from Parkee.
